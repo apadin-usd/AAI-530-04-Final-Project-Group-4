@@ -1,5 +1,5 @@
 
-# [Title]
+# [Sensor Based Aquaponics Fish Pond]
 This project is part of the AAI-500-01 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
 **-- Project Status: [status]**
